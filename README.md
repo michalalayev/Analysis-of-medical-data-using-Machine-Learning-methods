@@ -1,8 +1,8 @@
-# Analysis-of-medical-data-using-Machine-Learning-methods
+# Analysis of medical data using Machine Learning methods
 
 Constructing two Machine Learning-based classification models:
 1. ICU acquired bloodstream infections diagnosis (positive vs. negative cultures of patients).
-2. antibiotic treatment appropriateness in patients who acquired such infections (appropriate vs. inappropriate antibiotic treatment).
+2. Antibiotic treatment appropriateness in patients who acquired such infections (appropriate vs. inappropriate antibiotic treatment).
 
 The models were trained based on broad clinical data from two large databases - MIMIC and eICU.
 
